@@ -1,5 +1,6 @@
 # currencyQuiz
 Quiz game for matching a country to its currency!
+This game was created with PostgreSQL, EJS, CSS, and JS.
 
 As of right now, you will need to to do two things to make this app function. The first thing you must do is create a postgres db using the currencies.csv. Then you must make a .env file and put your postgres credentials into the db object. If you have not created a Postgres DB or need assistance on how to create one please follow the directions below.
 
