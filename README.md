@@ -1,3 +1,5 @@
+![App Preview](https://i.ibb.co/R6S7Ykz/currency-Quiz.png)
+
 # currencyQuiz
 Quiz game for matching a country to its currency!
 This game was created with PostgreSQL, EJS, CSS, and JS.
